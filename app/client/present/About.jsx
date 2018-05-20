@@ -17,7 +17,8 @@ const About = () => (
                                 About
                             </h1>
                             <h2 className="subtitle has-text-black has-text-weight-bold">
-                                $this is the best software platform for running an internet business. We handle billions of dollars every year for forward-thinking businesses around the world.
+                              We noticed millennials had a lot of questions about buying a house.
+Incentivize is here to answer those questions, helping you prepare financially and making your house feel like your own. With each milestone you achieve, we will help with home improvement. .
                             </h2>
                             <NewUserMain />
                         </div>
